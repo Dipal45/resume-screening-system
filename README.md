@@ -43,25 +43,20 @@ This system helps recruiters quickly identify the most relevant candidates by an
 
 ## 📸 Screenshots
 
-### 🔹 1. Main Interface
+### 1. Main Interface
+![Main UI](screenshot1.png)
 
-![Main UI](screenshot 1.png)
+### 2. Job Description Input
+![Job Description](screenshot2.png)
 
-### 🔹 2. Job Description Input
+### 3. Resume Upload
+![Upload](screenshot3.png)
 
-![Job Description](screenshot 2.png)
+### 4. Ranking Results
+![Results](screenshot4.png)
 
-### 🔹 3. Resume Upload
-
-![Upload](screenshot 3.png)
-
-### 🔹 4. Ranking Results
-
-![Results](screenshot 4.png)
-
-### 🔹 5. Detailed Analysis
-
-![Analysis](screenshot 5.png)
+### 5. Detailed Analysis
+![Analysis](screenshot5.png)
 
 ---
 
