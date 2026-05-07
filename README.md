@@ -8,6 +8,20 @@ This system helps recruiters quickly identify the most relevant candidates by an
 
 ---
 
+## 🌐 Live Demo
+
+👉 [Click here to try the app](https://resume-screening-system-ejcw8zcwu2vokq9djhufzs.streamlit.app/)
+
+---
+
+🔥 Key Highlights
+* Designed a lightweight NLP-based ranking system without heavy deep learning models (fast & efficient)
+* Built an end-to-end pipeline from PDF parsing → text processing → ranking → UI visualization
+* Implemented explainable AI using keyword matching between job description and resumes
+* Focused on clean UI/UX for real-world usability
+
+---
+
 ## ✨ Features
 
 * 📂 Upload multiple resumes (PDF format)
@@ -45,24 +59,32 @@ This system helps recruiters quickly identify the most relevant candidates by an
 
 ### 1. Main Interface
 ![Main UI](screenshot1.png)
+Clean and minimal UI for entering job description and uploading resumes.
 
 ### 2. Job Description Input
 ![Job Description](screenshot2.png)
+Supports full-length job descriptions with expandable view.
 
 ### 3. Resume Upload
 ![Upload](screenshot3.png)
+Upload multiple candidate resumes in PDF format.
+
 
 ### 4. Ranking Results
 ![Results](screenshot4.png)
+Displays ranked candidates based on similarity scores.
 
 ### 5. Detailed Analysis
 ![Analysis](screenshot5.png)
+Shows keyword matches and detailed evaluation for each resume.
 
 ---
 
 ## 📂 Sample Input
 
 Example resumes are provided in the `sample_resumes/` folder for testing.
+
+⚠️ Note: All resumes included are dummy samples created for demonstration purposes only. They do not represent real individuals or personal data.
 
 You can also upload your own PDF resumes.
 
